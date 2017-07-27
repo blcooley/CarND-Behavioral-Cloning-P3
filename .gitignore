@@ -1,0 +1,6 @@
+IMG*/*
+/IMG_new
+/IMG_old
+driving_log_*.csv
+/driving_log1.csv
+run1/*
